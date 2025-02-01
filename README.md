@@ -1,0 +1,23 @@
+- 👋 Hello!
+- 🚀 Aspiring Pentester | Linux | Python | CTF | OSINT
+- 📌 About Me
+- 🏴‍☠️ Exploring Cybersecurity and Penetration Testing
+- 🎯 Preparing for CCNA, OSCP Certifications
+- 💡 Practicing on TryHackMe, HackTheBox
+- 🖥 Developing tools for Security Automation & Testing
+- 🏋️ Firm believer in discipline & balance: fitness, self-improvement, mindfulness
+- 📚 Technical Skills
+- 🔹 Programming: Ruby, Python (automation, parsing, scanners), Bash
+- 🔹 Networking & Security: Nmap, Wireshark, Burp Suite, Metasploit
+- 🔹 Operating Systems: Linux, Windows (AD Security), Raspberry Pi
+- 🔹 Shells & Exploitation: Reverse shells, payload crafting, privilege escalation
+- 🔹 CVE Research & Exploitation: Identifying, testing, and documenting vulnerabilities
+- 🔹 Practical Experience: CTF challenges, OSINT, Web Pentesting
+- 🎯 Goals for 2025
+- ✅ Obtain CCNA Certification
+- ✅ Expand my GitHub & Blog with Valuable Projects
+- ✅ Develop an Open-Source Pentesting Tool
+- ✅ Contribute to CVE research and vulnerability reporting
+- 📫 Get in Touch
+- ✉️ Email: v3rb4@gmail.com
+- ⚡ Fun Fact: Code works better when the brain does—fitness and meditation help make that happen! 😎
