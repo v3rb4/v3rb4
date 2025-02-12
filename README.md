@@ -1,7 +1,5 @@
 # Hi, I'm Exploring Cybersecurity and Penetration Testing 🏴‍☠️
 
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
 ## 🚀 About Me
 **Currently learning**: AWS, network security, and penetration testing.  
 **I enjoy**: solving complex tasks, ethical hacking, exploring new technologies, and building secure applications.
