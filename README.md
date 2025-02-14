@@ -36,6 +36,3 @@
 
 ## 🤓 Fun Fact
 **Code works better when the brain does**—fitness and meditation help make that happen!
-
-## ❓ Questions?
-Connect with me on [LinkedIn](https://www.linkedin.com/in/your-profile) or [GitHub](https://github.com/your-username).
