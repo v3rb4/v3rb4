@@ -35,4 +35,4 @@
 **Firm believer in discipline & balance**: fitness, self-improvement, mindfulness.
 
 ## 🤓 Fun Fact
-**Code works better when the brain does**—fitness and meditation help make that happen!
+**Code works better when the brain does** — fitness and meditation help make that happen!
