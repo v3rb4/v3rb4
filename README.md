@@ -1,7 +1,7 @@
 # Hi, I'm Exploring Cybersecurity and Penetration Testing 🏴‍☠️
 
 ## 🚀 About Me
-**Currently learning**: AWS, network security, and penetration testing.  
+**Currently learning**: learning eJPT, AWS, network security, and penetration testing.  
 **I enjoy**: solving complex tasks, ethical hacking, exploring new technologies, and building secure applications.
 
 ## 🛠 Programming Languages & Tools
