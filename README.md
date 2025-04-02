@@ -17,6 +17,7 @@
 ![Sinatra](https://img.shields.io/badge/-Sinatra-FF4F00?logo=sinatra&logoColor=white)
 
 **🔹 Cybersecurity & Penetration Testing:**  
+![eJPT](https://img.shields.io/badge/-eJPT-8A2BE2?logo=ejpt&logoColor=white)  
 ![Metasploit](https://img.shields.io/badge/-Metasploit-8A2BE2?logo=metasploit&logoColor=white)  
 ![Nmap](https://img.shields.io/badge/-Nmap-4682B4?logo=nmap&logoColor=white)  
 ![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?logo=wireshark&logoColor=white)
