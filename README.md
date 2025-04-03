@@ -17,19 +17,23 @@
 ![Sinatra](https://img.shields.io/badge/-Sinatra-FF4F00?logo=sinatra&logoColor=white)
 
 **🔹 Cybersecurity & Penetration Testing:**  
-![eJPT](https://img.shields.io/badge/-eJPT-8A2BE2?logo=ejpt&logoColor=white)  
+![eJPT](https://img.shields.io/badge/eJPT-In%20Progress-orange?logo=offensive%20security&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/-Metasploit-8A2BE2?logo=metasploit&logoColor=white)  
-![Nmap](https://img.shields.io/badge/-Nmap-4682B4?logo=nmap&logoColor=white)  
+![Nmap](https://img.shields.io/badge/Nmap-Scanner-lightgrey?logo=wireshark)
 ![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?logo=wireshark&logoColor=white)
+![TryHackMe](https://img.shields.io/badge/TryHackMe-red?logo=tryhackme&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-Analyzing-orange?logo=burpsuite&logoColor=white)
 
 **🔹 Networking & Cloud:**  
 ![CCNA](https://img.shields.io/badge/-CCNA-1F75FE?logo=cisco&logoColor=white)  
 ![AWS](https://img.shields.io/badge/-AWS-FF9900?logo=amazonaws&logoColor=white)
 
 ## 🛠 System & Tools
-![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)  
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-Pentesting-blue?logo=kalilinux&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-Server-orange?logo=ubuntu&logoColor=white)
 ![macOS](https://img.shields.io/badge/-macOS-000000?logo=apple&logoColor=white)  
-![Windows](https://img.shields.io/badge/-Windows-0078D6?logo=windows&logoColor=white)  
+![Windows 95](https://img.shields.io/badge/Windows%2095-008484?logo=windows95&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)  
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
 
