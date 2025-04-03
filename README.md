@@ -22,6 +22,7 @@
 ![Nmap](https://img.shields.io/badge/Nmap-Scanner-lightgrey?logo=wireshark)
 ![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?logo=wireshark&logoColor=white)
 ![TryHackMe](https://img.shields.io/badge/TryHackMe-red?logo=tryhackme&logoColor=white)
+![Hack The Box](https://img.shields.io/badge/Hack%20The%20Box-Learning-green?logo=hackthebox&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-Analyzing-orange?logo=burpsuite&logoColor=white)
 
 **🔹 Networking & Cloud:**  
