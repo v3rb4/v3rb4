@@ -14,7 +14,7 @@
 **🔹 Web Development:**  
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff) 
 ![Ruby on Rails](https://img.shields.io/badge/-Ruby_on_Rails-CC0000?logo=ruby-on-rails&logoColor=white)  
-![Sinatra](https://img.shields.io/badge/-Sinatra-FF4F00?logo=sinatra&logoColor=white) 
+![Sinatra](https://img.shields.io/badge/Sinatra-FF4F00?style=flat) 
 
 **🔹 Cybersecurity & Penetration Testing:**  
 ![eJPT](https://img.shields.io/badge/eJPT-In%20Progress-orange?logo=offensive%20security&logoColor=white) 
