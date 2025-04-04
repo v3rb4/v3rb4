@@ -27,16 +27,16 @@
 
 **🔹 Networking & Cloud:**  
 ![CCNA](https://img.shields.io/badge/-CCNA-1F75FE?logo=cisco&logoColor=white)  
-![AWS](https://img.shields.io/badge/-AWS-FF9900?logo=amazonaws&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-FF9900?logo=amazonaws&logoColor=white) 
 
 ## 🛠 System & Tools
-![Kali Linux](https://img.shields.io/badge/Kali%20Linux-Pentesting-blue?logo=kalilinux&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-Server-orange?logo=ubuntu&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-Pentesting-blue?logo=kalilinux&logoColor=white) 
+![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black) 
+![Ubuntu](https://img.shields.io/badge/Ubuntu-Server-orange?logo=ubuntu&logoColor=white) 
 ![macOS](https://img.shields.io/badge/-macOS-000000?logo=apple&logoColor=white)  
-![Windows 95](https://img.shields.io/badge/Windows%2095-008484?logo=windows95&logoColor=white)
+![Windows 95](https://img.shields.io/badge/Windows%2095-008484?logo=windows95&logoColor=white) 
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)  
-![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white) 
 
 ## 🏋️ Discipline & Balance
 **Firm believer in discipline & balance**: fitness, self-improvement, mindfulness.
