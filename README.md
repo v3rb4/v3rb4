@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 **Currently learning**: learning eJPT, CCNA, network security, and penetration testing.  
-**I enjoy**: solving complex tasks, ethical hacking, exploring new technologies, and building secure applications.
+**I enjoy**: solving complex tasks, ethical hacking and exploring new technologies.
 
 ## 🛠 Programming Languages & Tools
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
